@@ -3,4 +3,4 @@
 
 I wanted to see if I could replicate this chart using [Plotly](https://plotly.com/python/)
 
-![My version](food_index.png "MarineGEO logo")
+![My version](food_index.png "My version")
